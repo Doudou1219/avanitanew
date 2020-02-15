@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap" rel="stylesheet");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+font-family: 'Merriweather', serif;
+	font-size: 18px;
+	margin: 0px;
+	
+h1 {
+	font-family: 'Rouge Script', cursive;
+	
+}
+
+h2, h3 {
+	font-family: 'Rouge Script', cursive;
+}
+a{
+	text-decoration: none; 
+}
